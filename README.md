@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I am Md. Touhidur Rahman, is currently working as a Mobile Application Developer, focusing primarily on creating solutions using the Flutter framework. I always aim to stay updated with the latest industry standards and continuously improve my skills. Right now, I’m learning more about advanced Flutter features, optimizing app performance, and integrating modern tools to enhance my development process. Also, i have a keen interest in native mobile application development with Kotlin.
+# 💫 Hi, I am Md. Touhidur Rahman
+I am currently working as a Mobile Application Developer, focusing primarily on creating solutions using the Flutter framework. I always aim to stay updated with the latest industry standards and continuously improve my skills. Right now, I’m learning more about advanced Flutter features, optimizing app performance, and integrating modern tools to enhance my development process. Also, i have a keen interest in native mobile application development with Kotlin.
 
 
 ## 🌐 Socials:
